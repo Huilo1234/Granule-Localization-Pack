@@ -1,0 +1,9 @@
+{
+  "name": "Français",
+  "translations": {
+    "ENTER": "JOUER",
+    "SETTINGS": "PARAMÈTRES",
+    "EXIT": "QUITTER",
+    "Language": "Langue"
+  }
+}
